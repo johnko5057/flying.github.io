@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+    xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+    <channel>
+        <atom:link href="rss" rel="self" type="application/rss+xml" />
+        
+        <title><![CDATA[Finding The Way Home - Fiction]]></title>
+        <link>http://pasper.yerl.cn/tag/Fiction</link>
+<!--        需要修复-->
+        <description><![CDATA[]]></description>
+        
+        
+        <language>en-uk</language>
+        <managingEditor><![CDATA[Casper McFadden]]></managingEditor>
+        
+<item>
+    <title><![CDATA[The Businessman & the fisherman]]></title>
+    <link>http://pasper.yerl.cn/blog/the-businessman-and-fisherman</link>
+    <author><![CDATA[Casper McFadden]]></author>
+    <pubDate>Tue, 12 Aug 2014 18:18:00 +0800</pubDate>
+    <dc:date>2014-08-12T18:18:00+08:00</dc:date>
+    <guid><![CDATA[/blog/the-businessman-and-fisherman]]></guid>
+    <description><![CDATA[An American businessman took a vacation to a small coastal Mexican village on doctor’s orders. Unable to sleep after an urgent phone call from the office the first morning, he walked out to the pie...]]></description>
+</item>
+
+<item>
+    <title><![CDATA[The Purpose of Education]]></title>
+    <link>http://pasper.yerl.cn/blog/the-purpose-of-education</link>
+    <author><![CDATA[Casper McFadden]]></author>
+    <pubDate>Sun, 12 Dec 1948 18:18:00 +0800</pubDate>
+    <dc:date>1948-12-12T18:18:00+08:00</dc:date>
+    <guid><![CDATA[/blog/the-purpose-of-education]]></guid>
+    <description><![CDATA[As I engage in the so-called &quot;bull sessions&quot; around and about the school, I too often find that most college men have a misconception of the purpose of education. Most of the &quot;brethr...]]></description>
+</item>
+
+<item>
+    <title><![CDATA[Out to Sea]]></title>
+    <link>http://pasper.yerl.cn/blog/out-to-sea</link>
+    <author><![CDATA[Casper McFadden]]></author>
+    <pubDate>Wed, 24 Jul 1912 18:18:00 +0800</pubDate>
+    <dc:date>1912-07-24T18:18:00+08:00</dc:date>
+    <guid><![CDATA[/blog/out-to-sea]]></guid>
+    <description><![CDATA[I had this story from one who had no business to tell it to me, or to any other. I may credit the seductive influence of an old vintage upon the narrator for the beginning of it, and my own skeptic...]]></description>
+</item>
+
+<item>
+    <title><![CDATA[Looking-Glass house]]></title>
+    <link>http://pasper.yerl.cn/blog/looking-glass-house</link>
+    <author><![CDATA[Casper McFadden]]></author>
+    <pubDate>Sat, 18 Mar 1871 18:18:00 +0800</pubDate>
+    <dc:date>1871-03-18T18:18:00+08:00</dc:date>
+    <guid><![CDATA[/blog/looking-glass-house]]></guid>
+    <description><![CDATA[One thing was certain, that the white kitten had had nothing to do with it:— it was the black kitten’s fault entirely. For the white kitten had been having its face washed by the old cat for the la...]]></description>
+</item>
+
+<item>
+    <title><![CDATA[Down The Rabbit Hole]]></title>
+    <link>http://pasper.yerl.cn/blog/down-the-rabbit-hole</link>
+    <author><![CDATA[Casper McFadden]]></author>
+    <pubDate>Sun, 26 Nov 1865 18:18:00 +0800</pubDate>
+    <dc:date>1865-11-26T18:18:00+08:00</dc:date>
+    <guid><![CDATA[/blog/down-the-rabbit-hole]]></guid>
+    <description><![CDATA[Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: once or twice she had peeped into the book her sister was reading, but it had no pictures or...]]></description>
+</item>
+
+<item>
+    <title><![CDATA[Gettysburg Address]]></title>
+    <link>http://pasper.yerl.cn/blog/gettysburg-address</link>
+    <author><![CDATA[Casper McFadden]]></author>
+    <pubDate>Thu, 19 Nov 1863 18:18:00 +0800</pubDate>
+    <dc:date>1863-11-19T18:18:00+08:00</dc:date>
+    <guid><![CDATA[/blog/gettysburg-address]]></guid>
+    <description><![CDATA[Fourscore and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal.
+
+Now we are engaged i...]]></description>
+</item>
+
+
+    </channel>
+</rss>

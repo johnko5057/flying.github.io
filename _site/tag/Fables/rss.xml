@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+    xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+    <channel>
+        <atom:link href="rss" rel="self" type="application/rss+xml" />
+        
+        <title><![CDATA[Finding The Way Home - Fables]]></title>
+        <link>http://pasper.yerl.cn/tag/Fables</link>
+<!--        需要修复-->
+        <description><![CDATA[]]></description>
+        
+        
+        <language>en-uk</language>
+        <managingEditor><![CDATA[Casper McFadden]]></managingEditor>
+        
+<item>
+    <title><![CDATA[The Businessman & the fisherman]]></title>
+    <link>http://pasper.yerl.cn/blog/the-businessman-and-fisherman</link>
+    <author><![CDATA[Casper McFadden]]></author>
+    <pubDate>Tue, 12 Aug 2014 18:18:00 +0800</pubDate>
+    <dc:date>2014-08-12T18:18:00+08:00</dc:date>
+    <guid><![CDATA[/blog/the-businessman-and-fisherman]]></guid>
+    <description><![CDATA[An American businessman took a vacation to a small coastal Mexican village on doctor’s orders. Unable to sleep after an urgent phone call from the office the first morning, he walked out to the pie...]]></description>
+</item>
+
+
+    </channel>
+</rss>

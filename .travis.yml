@@ -1,0 +1,31 @@
+language: ruby
+rvm:
+- 2.3.1
+
+branches:
+  only:
+    - master
+
+before_install:
+- git clone https://github.com/alan-yeh/CI.git
+- cp CI/jekyll/* ./
+- rm -rf CI
+- rm example.travis.yml
+
+install:
+- bundle install
+
+script: bundle exec rake site:deploy --quiet
+
+# Generate your secure token with the travis gem:
+# get Github token from your Travis CI profile page
+# gem install travis
+# GH_TOKEN from https://github.com/settings/tokens
+env:
+  global:
+    # travis encrypt 'GH_TOKEN=YOUR_TOKEN'
+    - secure: "o77Rh9H/2tsIt49bKktoK3+bF9hAW1952jN3oUydhszHOPBSYF8wTwBjt86lWy/mPLc7KJOCV9xYNjrFsoI9KkSrrdr+Acd9T03OMFJqycAquuPrUYPtjYaE9/TfYh2bhnBlid0rPZCcJlouy6OB55OzC/dYk/UynffmIy8UeyGUoUZCENTo5fOR3PYHW1n6uPb/sc9R7CSWaFSU4R3uXuAEarmsYwqjI2m2ISUcwnr6qNmCWpujI6CxFBqNmxYuIiUL5Tl5TXiWREZwu/MYYZS0blRDGiikkbHmK0exrbWef3tvZYRa8yDqCOxA5iuK0dNhHCKuG8BPQTzkUutr+sWNs2eMn//QivzRFW3N4qhi5Z86fh/4rMl3cMZE69KBQ3ot/QsFb+HCtN1sr2n+vhjvh/JCcK2CuAyzDkY0oUtkcdhSvfu8jjmqjdraCVvzKW514I/2LpA5YetjXoxVNQMqLajba/3S2xr7zgYDW0MLCr+tu8MHWgKVu3EVV/G79dx7TWH5aKt4rwxIFPv3CjHyjl25xN0GZdCswCrJL590GxAP45ytHIbqnQejb8flfjTzQEBDy5MUW2WTw2MFsEegB1yZSfkWoMyapw0m8C9F1enmVMZG6O8vnQLrsJW5cxA1I41YFLgcSXGYON8ltIlkCgIRkZgHvpbv0GEFBKg="
+    - GH_USER: Pasper
+    - GH_NAME: "Alan Yeh"
+    - GH_EMAIL: alan@yerl.cn
+

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+    xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+    <channel>
+        <atom:link href="rss" rel="self" type="application/rss+xml" />
+        
+        <title><![CDATA[Finding The Way Home - Speeches]]></title>
+        <link>http://pasper.yerl.cn/tag/Speeches</link>
+<!--        需要修复-->
+        <description><![CDATA[]]></description>
+        
+        
+        <language>en-uk</language>
+        <managingEditor><![CDATA[Casper McFadden]]></managingEditor>
+        
+<item>
+    <title><![CDATA[I Have a Dream]]></title>
+    <link>http://pasper.yerl.cn/blog/i-have-a-dream</link>
+    <author><![CDATA[Casper McFadden]]></author>
+    <pubDate>Wed, 28 Aug 1963 18:18:00 +0800</pubDate>
+    <dc:date>1963-08-28T18:18:00+08:00</dc:date>
+    <guid><![CDATA[/blog/i-have-a-dream]]></guid>
+    <description><![CDATA[I am happy to join with you today in what will go down in history as the greatest demonstration for freedom in the history of our nation.
+
+Five score years ago, a great American, in whose symbolic ...]]></description>
+</item>
+
+<item>
+    <title><![CDATA[The Purpose of Education]]></title>
+    <link>http://pasper.yerl.cn/blog/the-purpose-of-education</link>
+    <author><![CDATA[Casper McFadden]]></author>
+    <pubDate>Sun, 12 Dec 1948 18:18:00 +0800</pubDate>
+    <dc:date>1948-12-12T18:18:00+08:00</dc:date>
+    <guid><![CDATA[/blog/the-purpose-of-education]]></guid>
+    <description><![CDATA[As I engage in the so-called &quot;bull sessions&quot; around and about the school, I too often find that most college men have a misconception of the purpose of education. Most of the &quot;brethr...]]></description>
+</item>
+
+
+    </channel>
+</rss>
