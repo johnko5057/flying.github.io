@@ -1,0 +1,16 @@
+# Site settings
+title: Flying
+email: johnko5057@likesharing.com
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: johnko6067
+github_username:  johnko6067
+
+# Build settings
+markdown: redcarpet
+redcarpet:
+  extensions: ["fenced_code_blocks", "tables"]
+gems: [jekyll-paginate]
