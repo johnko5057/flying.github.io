@@ -6,8 +6,8 @@ description: > # this means to ignore newlines until "baseurl:"
   line in _config.yml.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://flying.github.io/" # the base hostname & protocol for your site
-twitter_username: johnko6067
-github_username:  johnko6067
+twitter_username: johnko5057
+github_username:  johnko5057
 
 # Build settings
 markdown: redcarpet
